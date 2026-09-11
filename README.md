@@ -1,5 +1,5 @@
 
-# Efficent Multi-Agent LLM Debate for GSM8K
+# Efficient Multi-Agent LLM Debate for GSM8K
 
 This project implements an adaptive multi-agent LLM debate system for mathematical reasoning on the GSM8K benchmark. Three different LLMs independently solve each problem, and additional debate rounds are only triggered when the agents disagree.
 
